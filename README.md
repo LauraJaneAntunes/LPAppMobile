@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌱 Ecosrev
 
-## Getting Started
+Bem-vindo ao **Ecosrev**!
 
-First, run the development server:
+Um projeto inovador criado para transformar o descarte de eletrônicos em uma experiência sustentável e recompensadora. ♻️
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📱 Sobre o Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O **Ecosrev** conecta cidadãos conscientes a empresas especializadas em reciclagem, tornando o descarte responsável mais acessível e vantajoso.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+💚 **Contribua para um futuro mais sustentável enquanto ganha benefícios exclusivos a cada interação.**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+> 🌟 Esta landing page foi criada para apresentar o projeto enquanto o aplicativo está em desenvolvimento, permitindo que os visitantes conheçam a proposta.
 
-## Learn More
+## 🚀 Status do Projeto
 
-To learn more about Next.js, take a look at the following resources:
+Atualmente, o aplicativo está em **desenvolvimento** e já alcançamos 20**% de progresso**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🔨 Estamos trabalhando intensamente para entregar a melhor experiência possível.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📥 Em breve nas principais lojas de aplicativos
 
-## Deploy on Vercel
+Fique de olho! O Ecosrev estará disponível para download em breve.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Acesse Nosso SIte
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Quer saber mais? Acesse nossa página oficial:
+
+👉 [ecos-rev-pi.vercel.app](https://ecos-rev-pi.vercel.app/)
+
+
+🌟 **Junte-se a nós na missão de transformar o descarte eletrônico e fazer a diferença no planeta!**

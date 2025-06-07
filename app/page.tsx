@@ -71,7 +71,7 @@ export default function Home() {
             <div className="inline-block bg-white/20 rounded-full px-4 py-1 mb-4 backdrop-blur-sm">
               Em desenvolvimento
             </div>
-            <h3 className="text-2xl font-bold mb-4">Progresso: 20%</h3>
+            <h3 className="text-2xl font-bold mb-4">Progresso: 80%</h3>
             <div className="w-full bg-white/30 rounded-full h-4 mb-6">
               <div className="bg-white h-4 rounded-full w-1/5"></div>
             </div>

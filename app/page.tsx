@@ -124,10 +124,11 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
             {[
               { name: 'Gabriel Yamaoka', github: 'YamaokaK', role: 'Full-stack' },
-              { name: 'João Lucas Melo', github: 'JoaoLucasMdO', role: 'Mobile Dev' },
-              { name: 'Laura Jane', github: 'LauraJaneAntunes', role: 'UX/UI' },
-              { name: 'Mariana Hirata', github: 'marianakakimoto', role: 'Back-end' },
-              { name: 'Mateus Ferreira', github: 'AEntropia', role: 'PM' }
+              { name: 'Gesley de Oliveira Rosa', github: 'GesleyOliveira', role: 'Full-stack' },
+              { name: 'João Lucas Melo', github: 'JoaoLucasMdO', role: 'Full-stack' },
+              { name: 'Laura Jane', github: 'LauraJaneAntunes', role: 'Full-stack' },
+              { name: 'Mariana Hirata', github: 'marianakakimoto', role: 'Full-stack' },
+              { name: 'Mateus Ferreira', github: 'AEntropia', role: 'Full-stack' }
             ].map((dev, index) => (
               <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden transform hover:-translate-y-1 transition duration-300">
                 <div className="h-3 bg-[#9FC131]"></div>
